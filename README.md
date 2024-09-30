@@ -1,5 +1,5 @@
 # 💫 About Me:
-📖   I'm currently pursuing 2nd year on "Karpagam College of Engineering"<br>🧑‍💻   I'm currently learning React js , Python<br>❓   Ask about me
+📖   I'm currently pursuing 2nd year on "Karpagam College of Engineering"<br>🧑‍💻   I'm currently learning React js , Python<br>❓   Ask about me at dharaneesh112@gmail.com
 
 
 ## 🌐 Socials:
